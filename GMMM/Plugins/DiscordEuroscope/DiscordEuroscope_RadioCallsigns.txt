@@ -1,0 +1,63 @@
+GMMM_ALL_CTR Casablanca Radar
+GMMM_CTR Casablanca Radar
+GMMM_N_CTR Casablanca Radar
+GMMM_NE_CTR Casablanca Radar
+GMMM_S_CTR Casablanca Radar
+GMMM_E_CTR Casablanca Radar
+GMMM_MIL_CTR Rabat Military Control
+GMMN_CTR Mohammed V Radar
+
+GMAC_CTR Agadir Radar
+GMAC_ON_CTR Agadir Radar
+GMAC_OS_CTR Agadir Radar
+GMAC_WN_CTR Agadir Radar
+GMAC_WS_CTR Agadir Radar
+GMAC_O_CTR Agadir Radar
+GMAC_S_CTR Agadir Radar
+
+GMMN_U_APP Mohammed V Radar
+GMMN_APP Mohammed V Approach
+GMAD_APP Al Massira Approach
+GMME_APP Rabat Approach
+GMMX_APP Marrakesh Approach
+GMMH_APP Dakhla Approach
+GMFB_APP Bouarfa Approach
+GMAG_APP Guelmime Approach
+GMMZ_APP Ouarzazate Approach
+GMTT_APP Tangier Approach
+GMFF_APP Fes Approach
+GMFO_APP Oujda Approach
+GMMI_APP Essaouira Approach
+GMML_APP Laayoune Approach
+GMMZ_APP Ouarzazate Approach
+
+GMMN_TWR Mohammed V Tower
+GMAD_TWR Al Massira Tower
+GMME_TWR Rabat Tower
+GMMX_TWR Marrakesh Tower
+GMMH_TWR Dakhla Tower
+GMFB_TWR Bouarfa Tower
+GMAG_TWR Guelmime Tower
+GMMZ_TWR Ouarzazate Tower
+GMTT_TWR Tangier Tower
+GMTA_TWR Al Hoceima Tower
+GMTN_TWR Tetouan Tower
+GMAZ_TWR Zagora Tower
+GMAT_TWR Tan-Tan Tower
+GMFO_TWR Oujda Tower
+GMFK_TWR Errachidia Tower
+GMMB_TWR Benslimane Tower
+GMMD_TWR Beni Mellal Tower
+GMMI_TWR Essaouira Tower
+GMML_TWR Laayoune Tower
+GMMT_TWR Tit Mellil Tower
+GMMW_TWR Nador Tower
+GMFF_TWR Fes Tower
+GMFI_TWR Ifrane Tower
+
+GMMN_GND Mohammed V Ground
+GMAD_GND Al Massira Ground
+GMMX_GND Marrakesh Ground
+
+GMMN_DEL Mohammed V Delivery
+GMMX_DEL Marrakesh Delivery

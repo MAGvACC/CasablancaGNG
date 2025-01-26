@@ -1,0 +1,87 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GMAD:name
+Airports:GMAD:symbol
+ARTCC high boundary:DAAA Algiers FIR:
+ARTCC high boundary:GCCC Canaries FIR:
+ARTCC high boundary:GMMM AoR CTR Agadir East:
+ARTCC high boundary:GMMM AoR CTR Agadir North:
+ARTCC high boundary:GMMM AoR CTR Agadir South:
+ARTCC high boundary:GMMM AoR CTR Agadir West:
+ARTCC high boundary:GMMM AoR CTR Casablanca East:
+ARTCC high boundary:GMMM AoR CTR Casablanca North:
+ARTCC high boundary:GMMM AoR CTR Casablanca South:
+ARTCC high boundary:GQQQ Roberts FIR:
+ARTCC high boundary:LECB Barcelona FIR:
+ARTCC high boundary:LECS Sevilla FIR:
+ARTCC high boundary:LPPC Lisboa FIR:
+ARTCC low boundary:GMAD TMA:
+ARTCC low boundary:GMAD Tower CTR:
+Geo:GEO:
+Geo:GMAD Groundlayout Agadir:
+Geo:GMMM Landmark Coastline:
+Regions:GMAD Agadir:polygon
+Runways:GMAD 09-27:centerline
+Runways:GMAD 09-27:extended centerline 1
+Runways:GMAD 09-27:extended centerline 1 left base
+Runways:GMAD 09-27:extended centerline 1 left ticks
+Runways:GMAD 09-27:extended centerline 1 left vectoring
+Runways:GMAD 09-27:extended centerline 1 right base
+Runways:GMAD 09-27:extended centerline 1 right ticks
+Runways:GMAD 09-27:extended centerline 1 right vectoring
+Runways:GMAD 09-27:extended centerline 2
+Runways:GMAD 09-27:extended centerline 2 left base
+Runways:GMAD 09-27:extended centerline 2 left ticks
+Runways:GMAD 09-27:extended centerline 2 left vectoring
+Runways:GMAD 09-27:extended centerline 2 right base
+Runways:GMAD 09-27:extended centerline 2 right ticks
+Runways:GMAD 09-27:extended centerline 2 right vectoring
+Runways:GMAD 09-27:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-1
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:358.50000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:30.318352:-9.433112:30.337482:-9.389976
+PLUGIN:Ground Radar plugin:AirportElevation:226
+PLUGIN:Ground Radar plugin:AirportRadius:2.1
+PLUGIN:Ground Radar plugin:GroundMode:GMAD
+PLUGIN:TopSky plugin:NoDraw:1
+PLUGIN:vSMR:ActiveProfile:Professional
+PLUGIN:vSMR:Afterglow:1
+PLUGIN:vSMR:Airport:GMAD
+PLUGIN:vSMR:AppTrailsDots:4
+PLUGIN:vSMR:FontSize:1
+PLUGIN:vSMR:GndTrailsDots:4
+PLUGIN:vSMR:PredictedLine:0
+PLUGIN:vSMR:SRW1BottomRightX:1919
+PLUGIN:vSMR:SRW1BottomRightY:360
+PLUGIN:vSMR:SRW1Display:1
+PLUGIN:vSMR:SRW1Filter:5500
+PLUGIN:vSMR:SRW1OffsetX:0
+PLUGIN:vSMR:SRW1OffsetY:0
+PLUGIN:vSMR:SRW1Rotation:0
+PLUGIN:vSMR:SRW1Scale:15
+PLUGIN:vSMR:SRW1TopLeftX:1519
+PLUGIN:vSMR:SRW1TopLeftY:60
+PLUGIN:vSMR:SRW2BottomRightX:600
+PLUGIN:vSMR:SRW2BottomRightY:500
+PLUGIN:vSMR:SRW2Display:0
+PLUGIN:vSMR:SRW2Filter:5500
+PLUGIN:vSMR:SRW2OffsetX:0
+PLUGIN:vSMR:SRW2OffsetY:0
+PLUGIN:vSMR:SRW2Rotation:0
+PLUGIN:vSMR:SRW2Scale:15
+PLUGIN:vSMR:SRW2TopLeftX:200
+PLUGIN:vSMR:SRW2TopLeftY:200

@@ -1,0 +1,77 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GMFF:name
+Airports:GMFF:symbol
+Free Text:GMFF Fes\C:freetext
+Free Text:GMFF Fes\E:freetext
+Free Text:GMFF Fes\F1:freetext
+Free Text:GMFF Fes\F10:freetext
+Free Text:GMFF Fes\F2:freetext
+Free Text:GMFF Fes\F3:freetext
+Free Text:GMFF Fes\F4:freetext
+Free Text:GMFF Fes\F5:freetext
+Free Text:GMFF Fes\F6:freetext
+Free Text:GMFF Fes\F7:freetext
+Free Text:GMFF Fes\F8:freetext
+Free Text:GMFF Fes\F9:freetext
+Free Text:GMFF Fes\J:freetext
+Free Text:GMFF Fes\L:freetext
+Free Text:GMFF Fes\N:freetext
+Free Text:GMFF Fes\R1:freetext
+Free Text:GMFF Fes\R10:freetext
+Free Text:GMFF Fes\R11:freetext
+Free Text:GMFF Fes\R2:freetext
+Free Text:GMFF Fes\R3:freetext
+Free Text:GMFF Fes\R4:freetext
+Free Text:GMFF Fes\R5:freetext
+Free Text:GMFF Fes\R6:freetext
+Free Text:GMFF Fes\R7:freetext
+Free Text:GMFF Fes\R8:freetext
+Free Text:GMFF Fes\R9:freetext
+Free Text:GMFF Fes\S1:freetext
+Free Text:GMFF Fes\S2:freetext
+Free Text:GMFF Fes\S3:freetext
+Free Text:GMFF Fes\S4:freetext
+Free Text:GMFF Fes\TERMINAL 1:freetext
+Free Text:GMFF Fes\TERMINAL 2:freetext
+Free Text:GMFF Fes\W:freetext
+Geo:GEO:
+Geo:GMFF Groundlayout Fes:
+Geo:GMMM Landmark Coastline:
+Runways:GMFF 09-27:centerline
+Runways:GMFF 09-27:extended centerline 1
+Runways:GMFF 09-27:extended centerline 1 left base
+Runways:GMFF 09-27:extended centerline 1 left ticks
+Runways:GMFF 09-27:extended centerline 1 left vectoring
+Runways:GMFF 09-27:extended centerline 1 right base
+Runways:GMFF 09-27:extended centerline 1 right ticks
+Runways:GMFF 09-27:extended centerline 1 right vectoring
+Runways:GMFF 09-27:extended centerline 2
+Runways:GMFF 09-27:extended centerline 2 left base
+Runways:GMFF 09-27:extended centerline 2 left ticks
+Runways:GMFF 09-27:extended centerline 2 left vectoring
+Runways:GMFF 09-27:extended centerline 2 right base
+Runways:GMFF 09-27:extended centerline 2 right ticks
+Runways:GMFF 09-27:extended centerline 2 right vectoring
+Runways:GMFF 09-27:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:-2
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:33.921748:-4.997160:33.939452:-4.959049
+PLUGIN:Ground Radar plugin:AirportElevation:1900
+PLUGIN:Ground Radar plugin:AirportRadius:2.1
+PLUGIN:Ground Radar plugin:GroundMode:GMFF
+PLUGIN:TopSky plugin:NoDraw:1

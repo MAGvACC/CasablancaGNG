@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<CDM>
+	<rate ops="20" />
+	<rateLvo ops="10" />
+	<expiredCtot time="25" />
+	<realMode mode="true" />
+	<invalidateAtTsat mode="true" />
+	<Rates url="" />
+	<Taxizones url="" />
+    <Ctot code="" />
+    <Ctot url="http://events.vatsim.ma" />
+	<DefaultTaxiTime minutes="15" />
+	<RefreshTime seconds="20" />
+	<Debug mode="false" />
+	<FlowRestrictions url="https://ecfmp.vatsim.net/api/v1/plugin" />
+	<vdgsFileType type="3" />
+    <ftpHost host="ftp.vatsim.ma" />
+    <ftpUser user="vatsimCDM@vatsim.ma" />
+    <ftpPassword password="HIUHbiuyh8OGuyogbhy" />
+	<Su_Wait mode="true" />
+</CDM>

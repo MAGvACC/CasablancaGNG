@@ -1,0 +1,92 @@
+DisplayTypeName:Ground Radar display
+DisplayTypeNeedRadarContent:0
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:GMTT:name
+Airports:GMTT:symbol
+ARTCC high boundary:DAAA Algiers FIR:
+ARTCC high boundary:GCCC Canaries FIR:
+ARTCC high boundary:GMMM AoR CTR Agadir East:
+ARTCC high boundary:GMMM AoR CTR Agadir North:
+ARTCC high boundary:GMMM AoR CTR Agadir South:
+ARTCC high boundary:GMMM AoR CTR Agadir West:
+ARTCC high boundary:GMMM AoR CTR Casablanca East:
+ARTCC high boundary:GMMM AoR CTR Casablanca North:
+ARTCC high boundary:GMMM AoR CTR Casablanca South:
+ARTCC high boundary:GQQQ Roberts FIR:
+ARTCC high boundary:LECB Barcelona FIR:
+ARTCC high boundary:LECS Sevilla FIR:
+ARTCC high boundary:LPPC Lisboa FIR:
+ARTCC low boundary:GMTT TMA:
+ARTCC low boundary:GMTT Tower ATZ:
+ARTCC low boundary:GMTT Tower CTR:
+Free Text:GMTT Tangier\3:freetext
+Free Text:GMTT Tangier\4:freetext
+Free Text:GMTT Tangier\5:freetext
+Free Text:GMTT Tangier\6:freetext
+Free Text:GMTT Tangier\A:freetext
+Free Text:GMTT Tangier\Apron H:freetext
+Free Text:GMTT Tangier\Apron L:freetext
+Free Text:GMTT Tangier\B:freetext
+Free Text:GMTT Tangier\C1:freetext
+Free Text:GMTT Tangier\D:freetext
+Free Text:GMTT Tangier\E:freetext
+Free Text:GMTT Tangier\F:freetext
+Free Text:GMTT Tangier\F:freetext
+Free Text:GMTT Tangier\General Aviation Hangar:freetext
+Free Text:GMTT Tangier\H1:freetext
+Free Text:GMTT Tangier\H2:freetext
+Free Text:GMTT Tangier\H3:freetext
+Free Text:GMTT Tangier\H4:freetext
+Free Text:GMTT Tangier\H5:freetext
+Free Text:GMTT Tangier\H6:freetext
+Free Text:GMTT Tangier\Hangar:freetext
+Free Text:GMTT Tangier\J1:freetext
+Free Text:GMTT Tangier\J2:freetext
+Free Text:GMTT Tangier\MAFS:freetext
+Free Text:GMTT Tangier\T1:freetext
+Free Text:GMTT Tangier\T2:freetext
+Free Text:GMTT Tangier\T3:freetext
+Free Text:GMTT Tangier\T4:freetext
+Free Text:GMTT Tangier\T5:freetext
+Free Text:GMTT Tangier\W4:freetext
+Free Text:GMTT Tangier\W5:freetext
+Free Text:GMTT Tangier\W6:freetext
+Geo:GEO:
+Geo:GMMM Landmark Coastline:
+Geo:GMTT Groundlayout Tanger:
+Runways:GMTT 10-28:centerline
+Runways:GMTT 10-28:extended centerline 1
+Runways:GMTT 10-28:extended centerline 1 left base
+Runways:GMTT 10-28:extended centerline 1 left ticks
+Runways:GMTT 10-28:extended centerline 1 left vectoring
+Runways:GMTT 10-28:extended centerline 1 right base
+Runways:GMTT 10-28:extended centerline 1 right ticks
+Runways:GMTT 10-28:extended centerline 1 right vectoring
+Runways:GMTT 10-28:extended centerline 2
+Runways:GMTT 10-28:extended centerline 2 left base
+Runways:GMTT 10-28:extended centerline 2 left ticks
+Runways:GMTT 10-28:extended centerline 2 left vectoring
+Runways:GMTT 10-28:extended centerline 2 right base
+Runways:GMTT 10-28:extended centerline 2 right ticks
+Runways:GMTT 10-28:extended centerline 2 right vectoring
+Runways:GMTT 10-28:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:35.720330:-5.947367:35.744349:-5.895662
+PLUGIN:Ground Radar plugin:AirportElevation:62
+PLUGIN:Ground Radar plugin:AirportRadius:2.1
+PLUGIN:Ground Radar plugin:GroundMode:GMTT
+PLUGIN:TopSky plugin:NoDraw:1
